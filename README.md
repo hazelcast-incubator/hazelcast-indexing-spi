@@ -1,5 +1,7 @@
 ## Hazelcast is a clustering and highly scalable data distribution platform.
 
+[![Join the chat at https://gitter.im/hazelcast-incubator/hazelcast-indexing-spi](https://badges.gitter.im/hazelcast-incubator/hazelcast-indexing-spi.svg)](https://gitter.im/hazelcast-incubator/hazelcast-indexing-spi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 With its various distributed data structures, distributed caching capabilities, elastic nature, memcache support,
 integration with Spring and Hibernate and more importantly with so many happy users, Hazelcast is feature-rich,
 enterprise-ready and developer-friendly in-memory data grid solution.
